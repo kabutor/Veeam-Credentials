@@ -3,7 +3,7 @@
 #         demonstration and academic purposes. Use with permission from the 
 #         system owner.
 #
-# Author: Konstantin Burov.
+# Author: Konstantin Burov. Modified by Kabutor 20220204 - Work with windows free agent
 #
 # Usage:  Run as administrator (elevated) in PowerShell on a host in a Veeam 
 #         server.
